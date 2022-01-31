@@ -1,0 +1,22 @@
+{
+  "name": "canvas-squared-example",
+  "version": "1.0.0",
+  "description": "Example Project for Canvas Squared",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HooferDevelops/CanvasSquared.git"
+  },
+  "author": "Hoofer",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/HooferDevelops/CanvasSquared/issues"
+  },
+  "homepage": "https://github.com/HooferDevelops/CanvasSquared#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
