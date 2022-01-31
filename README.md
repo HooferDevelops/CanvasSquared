@@ -1,4 +1,6 @@
-![CanvasSquared](README_assets/banner.png)
+<p align="center">
+<img src="README_assets/banner.png" alt="CanvasSquared"/>
+</p>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
